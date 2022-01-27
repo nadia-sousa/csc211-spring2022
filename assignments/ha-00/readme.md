@@ -1,4 +1,4 @@
-# Assignment 0: Milestones in the History of Computing (due 02/08/21)
+# Assignment 0: Milestones in the History of Computing (due 02/06/22)
 
 In this assignment you are expected to work in groups.   Your group will write a short paper titled: `Milestones in the History of Computing`.  To this end, follow the steps below:
 
@@ -36,4 +36,4 @@ In this assignment you are expected to work in groups.   Your group will write a
 
 7. Your paper can contain figures, tables, images etc. The length including these media should be about 7-12 pages.
 
-8. To submit the assignment, you should generate a PDF containing each group members' name and upload it to Gradescope by the due date (02/08/21).
+8. To submit the assignment, you should generate a PDF containing each group members' name and upload it to Gradescope by the due date (02/06/22).
