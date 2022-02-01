@@ -17,8 +17,6 @@
 |Friday    |    Marie <br> John   |   10a - 12p <br> 12p - 4p   |   In- Person <br> In- Person   |
 
 **Discussion Session**
-<br> Location: TBD
-
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
 | Day | Staff Member | Time | Modality | Location |
