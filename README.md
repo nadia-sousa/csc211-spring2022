@@ -10,9 +10,9 @@
 
 | Day | Staff Member |  Time | Modality |
 | --- | --- | --- |--- |
-|Monday    |   Denno <br>  Marie <br> Bilguuntur |   9a - 1p  <br> 11a - 12:30p <br> 5:00p - 8:00p   |   In-person <br> In-person <br> In-person  |
-|Tuesday   |    Marie <br> John <br> Matt |  10a - 12p  <br> 11a - 2:00p <br> 3p - 4p |    In-person <br> In-person <br>In-person|
-|Wednesday |    Denno <br> Matt <br> Bilguuntur  |   9a - 1p <br> 10a - 12p <br> 1p - 4p   |   In-person <br> In-person <br>In-person   |
+|Monday    |   Marie <br> Bilguuntur |   11a - 12:30p <br> 5:00p - 8:00p   |   In-person <br> In-person  |
+|Tuesday   |    Marie <br> John <br> Matt H. |  10a - 12p  <br> 11a - 2:00p <br> 3p - 4p |    In-person <br> In-person <br>In-person|
+|Wednesday |    Matt H. <br> Bilguuntur  |   10a - 12p <br> 1p - 4p   |   In-person <br>In-person   |
 |Thursday  |   Marie <br> John <br> John   |  10a - 12p <br> 11a - 2:00p <br> 5:00p - 7:00p   | In-person <br>  In-person <br> In-person  |
 |Friday    |    Marie <br> John   |   10a - 12p <br> 12p - 4p   |   In- Person <br> In- Person   |
 
@@ -21,10 +21,10 @@
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
-| Day | Staff Member |  Time | Modality |
-| --- | --- | --- |--- |
-|Wednesday |   Bilguuntur |   5p - 6p  | In-person |
-|Friday |   John |   11a - 12p  | In-person |
+| Day | Staff Member | Time | Modality | Location |
+| --- | --- | --- | --- | --- |
+| Wednesday | Bilguuntur | 5p - 6p | In-person | TBD |
+| Friday | John | 11a - 12p | In-person | Tyler 052 |
 
 
 **Lab**
