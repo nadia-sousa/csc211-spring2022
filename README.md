@@ -11,9 +11,9 @@
 | Day | Staff Member |  Time | Modality |
 | --- | --- | --- |--- |
 |Monday    |   Marie <br> Bilguuntur |   11a - 12:30p <br> 5:00p - 8:00p   |   In-person <br> In-person  |
-|Tuesday   |    Marie <br> John <br> Matt H. |  10a - 12p  <br> 11a - 2:00p <br> 3p - 4p |    In-person <br> In-person <br>In-person|
+|Tuesday   |    Marie <br> John <br> Matt H. |  10a - 12p  <br> 11a - 2:00p <br> 3p - 4p |    In-person <br> <a href="https://zoom.us/j/9466093350?pwd=eW5yaWdKZGdnbHFpNi9SREpxcDM3QT09">Remote</a> <br>In-person|
 |Wednesday |    Matt H. <br> Bilguuntur  |   10a - 12p <br> 1p - 4p   |   In-person <br>In-person   |
-|Thursday  |   Marie <br> John <br> John   |  10a - 12p <br> 11a - 2:00p <br> 5:00p - 7:00p   | In-person <br>  In-person <br> In-person  |
+|Thursday  |   Marie <br> John <br> John   |  10a - 12p <br> 11a - 2:00p <br> 5:00p - 7:00p   | In-person <br>  <a href="https://zoom.us/j/9466093350?pwd=eW5yaWdKZGdnbHFpNi9SREpxcDM3QT09">Remote</a> <br> In-person  |
 |Friday    |    Marie <br> John   |   10a - 12p <br> 12p - 4p   |   In- Person <br> In- Person   |
 
 **Discussion Session**
