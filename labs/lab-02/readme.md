@@ -168,7 +168,7 @@ int main(){
 
 <center><img src="images/qform.png" width="250px"></center>
 
-You can assume access to `sqrt(expression)` and `exp(base, exponent)`, which can perform the square root and exponent operations, respectively. 
+You can assume access to `sqrt(expression)` and `pow(base, exponent)`, which can perform the square root and exponent operations, respectively. 
 
 :white_check_mark: [`program2.cpp`] Write a program that calculates the sales tax (T) of some purchase of N dollars and returns the final cost to the buyer (N + T). You can assume that sales tax is 7.0%
 
